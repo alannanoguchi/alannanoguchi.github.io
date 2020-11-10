@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Alanna Rica Noguchi 👋 </h1>
-<h3 align="center">🚀 Data Science | Latinas in Tech | Techqueira | Girls Who Code  🚀</h3>
+<h3 align="center">🚀 Data Science | Latinas in Tech | Techqueria | Girls Who Code  🚀</h3>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" />
 <div align="left"> 
