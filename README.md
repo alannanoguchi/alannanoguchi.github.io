@@ -38,3 +38,13 @@
   
 
 <br/>
+
+<br/>
+
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alannanoguchi&show_icons=true)](https://github.com/alannanoguchi)
+<a href="https://github.com/alannanoguchi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alannanoguchi&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alannanoguchi&theme=buefy&layout=compact" />
+</a>
+
+<br/>
