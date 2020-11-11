@@ -1,17 +1,16 @@
 <h1 align="center">Hey there! I'm Alanna Rica Noguchi 👋 </h1>
 <h3 align="center">🚀 Data Science | Latinas in Tech | Techqueria | Girls Who Code  🚀</h3>
 <div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" />
+  <img width = "35%" align="right" alt="PIC" height="300px" src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" />
 <div align="left"> 
-  <h3> 👩‍💻 About Me </h3>
+<h3> 👩‍💻 &nbsp;About Me </h3>
 
   - 🤔 &nbsp; Exploring new technologies and constantly learning new things.
   - 🎓 &nbsp; Degree #1: Child Development.
   - 🎓 &nbsp; Degree #2: Applied Computer Science (in progress).
   - 💼 &nbsp; I’m currently working as a Student Assistant with the Department of Technology.
   - 🌱 &nbsp; Currently working on collaboration project with Raptor Maps. 
-</div> 
-</div>
+
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -34,9 +33,6 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
-
-<br/>
-
 <br/>
 
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alannanoguchi&show_icons=true)](https://github.com/alannanoguchi)
